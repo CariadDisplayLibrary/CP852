@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::CP852 
 
-![CP852](https://raw.githubusercontent.com/DisplayCore/CP852/master/Preview/CP852.png)
+![CP852](https://raw.githubusercontent.com/Cariad/CP852/master/Preview/CP852.png)
 
